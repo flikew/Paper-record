@@ -20,3 +20,4 @@
 |    Model     |                            Paper                             | Venue | Year |                             Code                             | Time       |
 | :----------: | :----------------------------------------------------------: | :---: | :--: | :----------------------------------------------------------: | ---------- |
 |     DETR     | [End-to-End Object Detection with Transformers ](https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers)| ECCV  | 2020 |      [Python]()      | 2024.10.10 |
+|   YOLOV7     | [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new)| CVPR | 2023 |      [Python]()      | 2024.10.20 |

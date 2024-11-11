@@ -19,4 +19,4 @@
 
 |    Model     |                            Paper                             | Venue | Year |                             Code                             | Time       |
 | :----------: | :----------------------------------------------------------: | :---: | :--: | :----------------------------------------------------------: | ---------- |
-|     DETR     | [End-to-End Object Detection with Transformers ]((https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers)) | ECCV  | 2020 |      [Python]()      | 2024.10.10 |
+|     DETR     | [End-to-End Object Detection with Transformers ](https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers)| ECCV  | 2020 |      [Python]()      | 2024.10.10 |

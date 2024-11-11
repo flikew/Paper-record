@@ -17,5 +17,6 @@
 
 ## 
 
-| Model | Paper | Venue | Year | Code | Time |
-| :---: | :---: | :---: | :--: | :--: | :--: |
+|   Model    |                            Paper                             | Venue | Year |                      Code                      | Time   |
+| :--------: | :----------------------------------------------------------: | :---: | :--: | :--------------------------------------------: | ------ |
+| DETR  |[End-to-End Object Detection with Transformers]([https://ieeexplore.ieee.org/document/9989433]| ECCV | 2020 | [Python](https://github.com/danfenghong/IEEE_TIP_UIU-Net) |2024.10.10|
